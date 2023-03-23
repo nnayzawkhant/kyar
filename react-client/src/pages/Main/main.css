@@ -1,0 +1,41 @@
+body{
+    background-color: #ccc;
+    background-image: url('https://cdn.pixabay.com/photo/2014/09/01/19/39/chess-433071_1280.jpg');
+    background-position: 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.main-wrapper {
+    
+}
+.navbar-wrapper{
+    padding:0 20px;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+    border-bottom: 1px solid #fff;
+}
+
+.main-btn{
+    color: #000;
+    padding:10px 20px;
+    border: 0;
+    border-radius: 3px;
+    cursor: pointer;
+    
+}
+
+.large-container{
+}
+.large-container .left{
+    height: 100vh;
+    
+}
+
+.left h1{
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+    
+}
